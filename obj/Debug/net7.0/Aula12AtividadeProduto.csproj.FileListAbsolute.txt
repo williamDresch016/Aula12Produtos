@@ -1,0 +1,15 @@
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\bin\Debug\net7.0\Aula12AtividadeProduto.exe
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\bin\Debug\net7.0\Aula12AtividadeProduto.deps.json
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\bin\Debug\net7.0\Aula12AtividadeProduto.runtimeconfig.json
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\bin\Debug\net7.0\Aula12AtividadeProduto.dll
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\bin\Debug\net7.0\Aula12AtividadeProduto.pdb
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.csproj.AssemblyReference.cache
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.AssemblyInfoInputs.cache
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.AssemblyInfo.cs
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.csproj.CoreCompileInputs.cache
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.dll
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\refint\Aula12AtividadeProduto.dll
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.pdb
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\Aula12AtividadeProduto.genruntimeconfig.cache
+D:\Users\william.dresch\source\repos\Aula12AtividadeProduto\Aula12AtividadeProduto\obj\Debug\net7.0\ref\Aula12AtividadeProduto.dll
